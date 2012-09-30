@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<configuration>
+ <property>
+
+    <name>fs.s3n.awsAccessKeyId</name>
+
+    <value>AKIAIQGT6YHBAL5L2BUA</value>
+
+  </property>
+
+  <property>
+
+    <name>fs.s3n.awsSecretAccessKey</name>
+
+    <value>5npT5LKIZ+yMtTaNlHK5gM8b6Fuk1k4RltSQk+25</value>
+
+  </property>  
+</configuration>
+
