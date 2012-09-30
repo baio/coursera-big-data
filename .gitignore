@@ -2,6 +2,7 @@
 .metadata
 bin/**
 tmp/**
+out/**
 tmp/**/*
 *.tmp
 *.bak
